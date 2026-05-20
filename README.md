@@ -19,7 +19,7 @@ chmod +x start_project.sh
 
 ### Windows
 ```cmd
-start_project.bat
+./start_project.bat
 ```
 
 ---
